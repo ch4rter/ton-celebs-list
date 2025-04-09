@@ -345,5 +345,10 @@
     "description": "STON.fi",
     "walletAddress": "UQDSE2BHJi4Qowu4jgvqQ3_4-KFrR2x6DqPzFkMGczCgoLcK",
     "imageUrl": "https://static7.tgstat.ru/channels/_0/e8/e8c980dc7c97bcdbeb5408533c4cff70.jpg"
+  },
+  {
+    "name": "Andrey Yakovenko",
+    "description": "Ohuenko",
+    "walletAddress": "UQCKw4MGCk9Q98BWnsIEr130Ua2upoGU6oL_Y8p2RRHqYGUP"
   }
 ]
