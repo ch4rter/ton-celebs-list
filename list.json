@@ -109,14 +109,14 @@
   {
     "name": "Anton Toroptsev",
     "description": "Blum COO",
-    "imageUrl": "https://media.licdn.com/dms/image/C4D22AQGUW4Uyz1rzbQ/feedshare-shrink_2048_1536/0/1580485666774?e=2147483647&v=beta&t=e_vJXjCBToC2JCytX_gbcHDAzkaQLHIwve_dDQlE5jg",
-    "walletAddress": "UQAmrolluFXSz9un62hUirW5WQuNNLWltCJV4j3jTpULh8bR"
+    "walletAddress": "UQAmrolluFXSz9un62hUirW5WQuNNLWltCJV4j3jTpULh8bR",
+    "imageUrl": "https://media.licdn.com/dms/image/C4D22AQGUW4Uyz1rzbQ/feedshare-shrink_2048_1536/0/1580485666774?e=2147483647&v=beta&t=e_vJXjCBToC2JCytX_gbcHDAzkaQLHIwve_dDQlE5jg"
   },
   {
     "name": "Alexander Sokolovskiy",
     "description": "Founder X Empire",
-    "imageUrl": "https://info-hit.ru/upload/iblock/941/jfPCjTKUHWA.jpg",
-    "walletAddress": "UQAMkZm7UI0MTiztMWk6XsH0NIQWNkxVc7q9LBiVOgWaGlBQ"
+    "walletAddress": "UQAMkZm7UI0MTiztMWk6XsH0NIQWNkxVc7q9LBiVOgWaGlBQ",
+    "imageUrl": "https://info-hit.ru/upload/iblock/941/jfPCjTKUHWA.jpg"
   },
   {
     "name": "k_Mapkc",
@@ -146,14 +146,14 @@
   {
     "name": "Vladimir",
     "description": "Blum CTO",
-    "imageUrl": "https://ibb.co/WWTHNDfG",
-    "walletAddress": "UQAUPvwAt57VuqYvGDWkfubIz_RhmUcCUhTKsJx8NcMMF7Og"
+    "walletAddress": "UQAUPvwAt57VuqYvGDWkfubIz_RhmUcCUhTKsJx8NcMMF7Og",
+    "imageUrl": "https://i.ibb.co/TBCwDKtY/photo-2022-12-05-00-58-03.jpg"
   },
   {
     "name": "Svyatoslav Konenkov",
     "description": "konenkov_official",
-    "imageUrl": "https://cryptorussia.ru/wp-content/uploads/2024/05/svyatoslav-konenkov.png",
-    "walletAddress": "UQBQKxNqoEm5OCsSKsD9DA-AN3xnE1H7fbHCrpsUTwAKPRg-"
+    "walletAddress": "UQBQKxNqoEm5OCsSKsD9DA-AN3xnE1H7fbHCrpsUTwAKPRg-",
+    "imageUrl": "https://cryptorussia.ru/wp-content/uploads/2024/05/svyatoslav-konenkov.png"
   },
   {
     "name": "prakha",
@@ -168,14 +168,14 @@
   {
     "name": "Marat khamidullov",
     "description": "CMO Axiomica Lab",
-    "imageUrl": "https://ibb.co/dRNy1V8",
-    "walletAddress": "UQCw5YegJa7cDk54A_1gR6gxqi8j5TZQEtyZm-0XeYnK8QkR"
+    "walletAddress": "UQCw5YegJa7cDk54A_1gR6gxqi8j5TZQEtyZm-0XeYnK8QkR",
+    "imageUrl": "https://i.ibb.co/bk4nqCc/photo-2024-09-03-12-50-39.jpg"
   },
   {
     "name": "Inal Kardan",
     "description": "TON Ventures",
-    "imageUrl": "https://indiagdc.com/wp-content/uploads/2023/10/Inal-Kardanov-TON-Foundation.png",
-    "walletAddress": "UQBw34IV4UHIZENkYc0FStO-qu_NcI7Woa53q7vLugBhcVti"
+    "walletAddress": "UQBw34IV4UHIZENkYc0FStO-qu_NcI7Woa53q7vLugBhcVti",
+    "imageUrl": "https://indiagdc.com/wp-content/uploads/2023/10/Inal-Kardanov-TON-Foundation.png"
   },
   {
     "name": "Beybut",
@@ -314,7 +314,7 @@
     "name": "Ilya Kuznetsov",
     "description": "Kuznetsovton",
     "walletAddress": "UQDybcNygAWpCAe6sTDp4edPeBuLaNsl2QQHrhjcZDOC2olR",
-    "imageUrl": "https://i.ibb.co/pBDMLgmj/photo-2025-04-09-00-39-32.jpg)"
+    "imageUrl": "https://i.ibb.co/pBDMLgmj/photo-2025-04-09-00-39-32.jpg"
   },
   {
     "name": "Nick Nekilov",
@@ -351,5 +351,10 @@
     "description": "Major, Fabrika",
     "walletAddress": "UQBnkKE9wJ6VX6Yk4DSNLE1jiMy15--7Q5ln6YDI3jtNPY44",
     "imageUrl": "https://raw.githubusercontent.com/Relder1/relder1/refs/heads/main/roxmanlogo.jpg"
+  },
+  {
+    "name": "Andrey Yakovenko",
+    "description": "Ohuenko",
+    "walletAddress": "UQCKw4MGCk9Q98BWnsIEr130Ua2upoGU6oL_Y8p2RRHqYGUP"
   }
 ]
