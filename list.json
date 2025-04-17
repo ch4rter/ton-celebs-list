@@ -347,6 +347,12 @@
     "imageUrl": "https://static7.tgstat.ru/channels/_0/e8/e8c980dc7c97bcdbeb5408533c4cff70.jpg"
   },
   {
+    "name": "scmbrgr",
+    "description": "fakedonalds",
+    "walletAddress": "UQDkz5AuQIvZ0iAzOJR7EyY-kv-CFc9AoBgcgixoBJZPpnPk",
+    "imageUrl": "https://i.ibb.co/spp3mvvp/scamburger.jpg"
+  },
+  {
     "name": "Roxman",
     "description": "Major",
     "walletAddress": "UQBnkKE9wJ6VX6Yk4DSNLE1jiMy15--7Q5ln6YDI3jtNPY44",
@@ -379,6 +385,6 @@
     "name": "Vlad Degen",
     "description": "TF DeFi Lead",
     "walletAddress": "UQDJfF2sU-Et5wltS6s4tDfxwdT0BprtnLwjFQo3n_Wjz6X_",
-    "imageUrl": "https://i.ytimg.com/vi/XEnIGC_CvbA/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgZShlMA8=&rs=AOn4CLAn78cv5ApiTp6Q-OMABcKr44rTOw"
+    "imageUrl": "https://i.ytimg.com/vi/XEnIGC_CvbA/maxresdefault.jpg"
   }
 ]
