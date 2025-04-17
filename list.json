@@ -356,5 +356,11 @@
     "name": "Andrey Yakovenko",
     "description": "Ohuenko",
     "walletAddress": "UQCKw4MGCk9Q98BWnsIEr130Ua2upoGU6oL_Y8p2RRHqYGUP"
-  }
+  },
+      {
+        "name": "Anna Create",
+        "description": "Miulog",
+        "walletAddress": "UQARFF7q1nV13E53Q6SPMPu5VaQ27YYUfLjdYCJYlC231WEN",
+        "imageUrl": "https://ltdfoto.ru/images/2025/04/09/IMG_9669.jpg"
+    }
 ]
