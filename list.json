@@ -303,12 +303,14 @@
   {
     "name": "Steve Yun",
     "description": "TON Foundation",
-    "walletAddress": "EQBnE7V2jE09hWkCg4FmkFr2GvYRtvzZCDbn1akZBT4mag3F"
+    "walletAddress": "EQBnE7V2jE09hWkCg4FmkFr2GvYRtvzZCDbn1akZBT4mag3F",
+    "imageUrl": "https://media.licdn.com/dms/image/v2/D4D03AQHS_hGVvNXZ4Q/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1692961630688?e=1750291200&v=beta&t=f-rSF3-euGYhbRoZ7gW1ZJmAobP-1RXNeV4YhrTLocY"
   },
   {
     "name": "Tolya Yanot",
     "description": "TON Core",
-    "walletAddress": "EQA0i8-CdGnF_DhUHHf92R1ONH6sIA9vLZ_WLcCIhfBBXwtG"
+    "walletAddress": "EQA0i8-CdGnF_DhUHHf92R1ONH6sIA9vLZ_WLcCIhfBBXwtG",
+    "imageUrl": "https://avatars.githubusercontent.com/u/1449561?v=4"
   },
   {
     "name": "Ilya Kuznetsov",
