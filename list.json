@@ -362,4 +362,29 @@
     "name": "Andrey Yakovenko",
     "description": "Ohuenko",
     "walletAddress": "UQCKw4MGCk9Q98BWnsIEr130Ua2upoGU6oL_Y8p2RRHqYGUP"
+  },
+  {
+    "name": "Vetrel",
+    "description": "Vetrel YouTube",
+    "walletAddress": "UQCGzNv8ppygyau3OHQuctSdcrQMkCWG7685W6khBCWKcbkC",
+    "imageUrl": "https://ltdfoto.ru/images/2025/04/12/channels4_profile.jpg"
+  },
+  {
+    "name": "Karim Iskakov",
+    "description": "Karim",
+    "walletAddress": "UQDM48NEOn9aqHCcTuqfIz_eh4r9aoayo1FE3rRjxJYeQ8tQ",
+    "imageUrl": "https://ltdfoto.ru/images/2025/04/13/photo_2025-02-11_01-25-06.jpg"
+  },
+  {
+    "name": "Anna Create",
+    "description": "Miulog",
+    "walletAddress": "UQARFF7q1nV13E53Q6SPMPu5VaQ27YYUfLjdYCJYlC231WEN",
+    "imageUrl": "https://ltdfoto.ru/images/2025/04/09/IMG_9669.jpg"
+  },
+  {
+    "name": "Vlad Degen",
+    "description": "TF DeFi Lead",
+    "walletAddress": "UQDJfF2sU-Et5wltS6s4tDfxwdT0BprtnLwjFQo3n_Wjz6X_",
+    "imageUrl": "https://i.ytimg.com/vi/XEnIGC_CvbA/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgZShlMA8=&rs=AOn4CLAn78cv5ApiTp6Q-OMABcKr44rTOw"
   }
+]
